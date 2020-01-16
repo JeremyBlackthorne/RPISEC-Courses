@@ -1,4 +1,5 @@
-# RPISEC RE/VR courses (a little scattered due to the passage of time):
+# RPISEC RE/VR courses 
+(a little scattered due to the passage of time):
 
 Secure Software Principles - CSCI 4971, Spring 2010:
 
