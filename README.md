@@ -22,11 +22,15 @@
    http://security.cs.rpi.edu/~gaasem/winexp/IndependentStudy.p...
 
    http://gaasedelen.blogspot.com/2014/02/windows-exploitation-...
+   
+6. __Hardware Reverse Engineering - CSCI 4974, Spring 2014:__
+   
+   http://security.cs.rpi.edu/courses/hwre-spring2014/
 
-6. __Modern Binary Exploitation - CSCI 4968, Spring 2015:__
+7. __Modern Binary Exploitation - CSCI 4968, Spring 2015:__
 
    https://github.com/RPISEC/MBE
 
-7. __Malware Analysis - CSCI 4976, Fall 2015:__
+8. __Malware Analysis - CSCI 4976, Fall 2015:__
 
    https://github.com/RPISEC/Malware
