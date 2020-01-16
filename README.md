@@ -1,4 +1,4 @@
-# RPISEC RE/VR Courses Through the Years
+# RPISEC RE/VR Courses
 (a little scattered due to the passage of time):
 
 1. Secure Software Principles - CSCI 4971, Spring 2010:
