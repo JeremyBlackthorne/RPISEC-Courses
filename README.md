@@ -1,5 +1,5 @@
 # RPISEC RE/VR Courses
-(a little scattered due to the passage of time):
+(a little scattered due to the passage of time)
 
 1. __Secure Software Principles - CSCI 4971, Spring 2010:__
 
