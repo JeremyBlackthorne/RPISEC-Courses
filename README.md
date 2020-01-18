@@ -15,13 +15,13 @@
 
 4. __Program Obfuscation, Fall 2013:__
 
-   http://security.cs.rpi.edu/courses/obfuscation-fall2013/syll...
+   http://security.cs.rpi.edu/courses/obfuscation-fall2013/syllabus.pdf
 
 5. __Windows Exploitation, Spring 2014:__
 
-   http://security.cs.rpi.edu/~gaasem/winexp/IndependentStudy.p...
+   http://security.cs.rpi.edu/~gaasem/winexp/IndependentStudy.pdf
 
-   http://gaasedelen.blogspot.com/2014/02/windows-exploitation-...
+   http://gaasedelen.blogspot.com/2014/02/windows-exploitation-smashing-stacks.html?q=independent+study
    
 6. __Hardware Reverse Engineering - CSCI 4974, Spring 2014:__
    
